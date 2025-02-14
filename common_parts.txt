@@ -1,0 +1,1044 @@
+                                      Part Name  Count  Percentage
+                          bumper front assembly    160        6.40
+                           bumper rear assembly     78        3.12
+                               head light right     66        2.64
+                                head light left     63        2.52
+                         windshield glass front     59        2.36
+                        fender panel front left     46        1.84
+               sealant front windshield glass 1     46        1.84
+                            bonnethood assembly     43        1.72
+                       fender panel front right     41        1.64
+                      moulding front windshield     35        1.40
+                          hinge bonnethood left     32        1.28
+                         hinge bonnethood right     31        1.24
+                          ac condenser assembly     28        1.12
+                          grille radiator upper     27        1.08
+                          grille radiator lower     25        1.00
+                              radiator assembly     21        0.84
+                                      bracket 1     21        0.84
+                               tail light right     19        0.76
+                                tail light left     19        0.76
+                         grille radiator middle     16        0.64
+                          dicky  trunk assembly     15        0.60
+     side rear view mirror outer assembly right     15        0.60
+                             bumper front upper     14        0.56
+                                           clip     14        0.56
+                                door rear right     14        0.56
+                         emblemlogo rear middle     13        0.52
+        fender wheel well liningguardcover left     12        0.48
+       fender wheel well liningguardcover right     12        0.48
+                          cover fog light right     11        0.44
+                                 sealant body 1     11        0.44
+                                 door rear left     10        0.40
+                     bracket front bumper right     10        0.40
+                             bumper front lower     10        0.40
+                                door front left     10        0.40
+                               door front right      9        0.36
+                                         holder      9        0.36
+                                           bolt      9        0.36
+          carrier radiator support lower member      9        0.36
+                        quarter panel rear left      8        0.32
+      reservoir tank assembly windshield washer      8        0.32
+                                      bracket 2      8        0.32
+                sealant rear windshield glass 1      8        0.32
+                  radiator cooling fan assembly      8        0.32
+                             air drying sealant      8        0.32
+                          windshield glass rear      7        0.28
+                            ac gas  refrigerant      7        0.28
+                                       brackets      6        0.24
+                       quarter panel rear right      6        0.24
+                    strut mcpherson front right      6        0.24
+                          fog light front right      6        0.24
+                                pipetube liquid      6        0.24
+                              bumper rear upper      6        0.24
+                                        coolant      6        0.24
+                              bumper rear lower      6        0.24
+                           cover fog light left      6        0.24
+                          lower arm front right      5        0.20
+                  absorber comp fr bumper lower      5        0.20
+                                      tank assy      5        0.20
+                                 condenser assy      5        0.20
+                                  radiator assy      5        0.20
+                      bracket front bumper left      5        0.20
+                      seat belt front passenger      5        0.20
+                        horn assembly low pitch      5        0.20
+                               latch bonnethood      5        0.20
+                          holderfr bumper sidel      5        0.20
+                                latch comp hood      5        0.20
+                              emblemmarkschrome      5        0.20
+                                    emblemmarks      5        0.20
+                    joint compfr stabilizer bar      5        0.20
+                     wheel rim steel front left      4        0.16
+                                tyre front left      4        0.16
+                           grilleradiator lower      4        0.16
+                               fan assy cooling      4        0.16
+                              bumper rail front      4        0.16
+                           bezelfront fog lampr      4        0.16
+                             engine cover right      4        0.16
+                                  oxygen sensor      4        0.16
+                          holderrr bumper sidel      4        0.16
+                       support comp front strut      4        0.16
+                              engine cover left      4        0.16
+                     strut mcpherson front left      4        0.16
+                          bonnethood lock panel      4        0.16
+      side rear view mirror outer assembly left      4        0.16
+                                          screw      4        0.16
+                       engine under guard cover      4        0.16
+                                   battery tray      4        0.16
+                        bumper absorber front 1      4        0.16
+                                            nut      4        0.16
+                                           bulb      4        0.16
+       carrier radiator support center member 1      4        0.16
+               sealant front windshield glass 2      4        0.16
+                      grille compradiator upper      3        0.12
+                                    pipe liquid      3        0.12
+            cross member suspension frame front      3        0.12
+                        coverengine under sider      3        0.12
+                                 hose discharge      3        0.12
+                     wheel rim alloy front left      3        0.12
+                      lamp assyside turn signal      3        0.12
+                        garnish grille radiator      3        0.12
+                            hose radiator lower      3        0.12
+                                   bumper front      3        0.12
+                                   inter cooler      3        0.12
+                                capfront bumper      3        0.12
+                   glass front door window left      3        0.12
+                               tank assy washer      3        0.12
+                          member comp hood lock      3        0.12
+                                       emblem s      3        0.12
+                                 coolant liquid      3        0.12
+                          holderfr bumper sider      3        0.12
+                        emblemlogo front grille      3        0.12
+                   hinge bottom door rear right      3        0.12
+                              apron fender left      3        0.12
+                            holder fr bumper rh      3        0.12
+                       cover front end lower rh      3        0.12
+                            garnish fender left      3        0.12
+                                         clip 2      3        0.12
+                        crossmember front lower      3        0.12
+                          hinge compfront hoodl      3        0.12
+                               fan assy eng clg      3        0.12
+                          member comp fr bumper      3        0.12
+                    tow hook cover bumper front      3        0.12
+                  rear view fender mirror right      3        0.12
+                          holderrr bumper sider      3        0.12
+        drive shaft constant velocity axle left      3        0.12
+                    grille radiator upper black      3        0.12
+                       holder rr bumper side lh      3        0.12
+                          hinge compfront hoodr      3        0.12
+                                     consumable      3        0.12
+                                tyre rear right      3        0.12
+                             apron fender right      3        0.12
+                                 engine mount 1      3        0.12
+                            liningfront fenderl      3        0.12
+                        bezel front fog lamp rh      3        0.12
+                                     ac can gas      3        0.12
+                                mounting eng rh      3        0.12
+                           horn assylow pitched      3        0.12
+                               glass windshield      3        0.12
+                      quarter panel inner right      2        0.08
+                                 emblemlogo abs      2        0.08
+                    wheel rim alloy front right      2        0.08
+                 running boardgusset panel left      2        0.08
+                   hinge bottom door front left      2        0.08
+            steering rack assemblysteering gear      2        0.08
+                            garnish bumper rear      2        0.08
+                       air drying sealer  pu 92      2        0.08
+                                  trim tail end      2        0.08
+                                 parking sensor      2        0.08
+                                     wheel comp      2        0.08
+                          glass compqtr windowr      2        0.08
+                  outer handle door front right      2        0.08
+                       holder fr bumper side rh      2        0.08
+                             stoprear door open      2        0.08
+         ac gas refrigerant recovery and refill      2        0.08
+                                   front bumper      2        0.08
+              carrier bulkhead radiator support      2        0.08
+                                belt assy fr lh      2        0.08
+                                 forward sensor      2        0.08
+                                  emblem mark s      2        0.08
+                 reflector visibility rear left      2        0.08
+                         garnish radiator upper      2        0.08
+                            jointstabilizer bar      2        0.08
+                          engine cover assembly      2        0.08
+                                      bracket 3      2        0.08
+                           insulator bonnethood      2        0.08
+                reflector visibility rear right      2        0.08
+                           mount stabilizer bar      2        0.08
+                          ac can gas 340 floron      2        0.08
+                                panel comp back      2        0.08
+                      guard assyfr door splashl      2        0.08
+                     wheel rim steel rear right      2        0.08
+                                         emblem      2        0.08
+                        cover front end upper l      2        0.08
+                                       emblem 2      2        0.08
+                                   connrod assy      2        0.08
+                    crossmember compfront lower      2        0.08
+                        member compfront bumper      2        0.08
+                                          bezel      2        0.08
+                           wheel sassy steering      2        0.08
+                                     covermarks      2        0.08
+                       shaft assy front drive l      2        0.08
+                           grilleradiator upper      2        0.08
+                                    lower grill      2        0.08
+                                   hose suction      2        0.08
+                       tapefront door outer rrr      2        0.08
+                   bracket rdtr support upper r      2        0.08
+                                      holder rh      2        0.08
+                           bezelfront fog lampl      2        0.08
+                             panel compcowl top      2        0.08
+                     glass compout rr view mirl      2        0.08
+                                           tape      2        0.08
+                       holder fr bumper front l      2        0.08
+                  hinge bottom door front right      2        0.08
+                           garnish fender right      2        0.08
+                       member comp front side r      2        0.08
+          carrier radiator support upper member      2        0.08
+                         holderrr bumper sidelh      2        0.08
+                           grill radiator lower      2        0.08
+                          airbag passenger seat      2        0.08
+                           fog light front left      2        0.08
+                   fender indicator light right      2        0.08
+                                 clip door trim      2        0.08
+                           member compfr bumper      2        0.08
+                                 condensor assy      2        0.08
+                        hinge comp front hood l      2        0.08
+                                   lower arm rh      2        0.08
+                            roof panel assembly      2        0.08
+                                         sensor      2        0.08
+                           garnish bumper front      2        0.08
+                               member compfront      2        0.08
+                                        sealent      2        0.08
+                         cowl panel cover right      2        0.08
+                    bracket front bumper left 1      2        0.08
+                                      holder rr      2        0.08
+                                        holders      2        0.08
+   retainer rear bumper side bracket mounting 1      2        0.08
+                              controller assyab      2        0.08
+                                        bracket      2        0.08
+                      hinge front door upper rh      2        0.08
+                                 bracehood lock      2        0.08
+                                guidegrille air      2        0.08
+                                        emblems      2        0.08
+                           member comphood lock      2        0.08
+                mounting radiator support lower      2        0.08
+                                     latch hood      2        0.08
+                      hinge top door front left      2        0.08
+                      grille compradiator lower      2        0.08
+                               outletventilator      2        0.08
+                                 latch comphood      2        0.08
+                                        battery      2        0.08
+                         stabilizer barsway bar      2        0.08
+                     garnish compcowl top sider      2        0.08
+                          airbag control module      2        0.08
+                    member compradiator support      2        0.08
+                                   pump assy rr      2        0.08
+                        bezel front fog lamp lh      2        0.08
+                                emblem s chrome      2        0.08
+                                          grill      1        0.04
+                   extension outer fender right      1        0.04
+                                 rear holder lh      1        0.04
+                                   clutch plate      1        0.04
+                    extension assy fr bpr lwr r      1        0.04
+                                   weatherstrip      1        0.04
+                                 plate triangle      1        0.04
+                         hinge comp front bnt l      1        0.04
+                          screw frfender lining      1        0.04
+                           holder fr bu front r      1        0.04
+                         glassrear door windowl      1        0.04
+                          unit headlamp rh side      1        0.04
+                           bracket abs actuator      1        0.04
+                                     holder rhs      1        0.04
+                                       oil pump      1        0.04
+                       hinge compfront door no2      1        0.04
+                                     rear lower      1        0.04
+                    tape front door outer rr lh      1        0.04
+                    tail gate dicky trunk upper      1        0.04
+                       tap frt door outer fr rh      1        0.04
+                     hinge top door front right      1        0.04
+                           bezel fr fog lamp lh      1        0.04
+                        hinge rear dor lower lh      1        0.04
+                            cover compfr  lower      1        0.04
+                              sashrear dr rearr      1        0.04
+                               decal door fr rh      1        0.04
+                     rebound clip set rear left      1        0.04
+                               panel front hood      1        0.04
+                                     oil engine      1        0.04
+                           pnl asy rear door rh      1        0.04
+                               rod assy lateral      1        0.04
+                     cover engine under side lh      1        0.04
+                      weatherstrip door opng rh      1        0.04
+                            harness assy insptn      1        0.04
+                    mirror assyinside rear view      1        0.04
+                            stopfront door open      1        0.04
+                              member comp front      1        0.04
+                                    consumables      1        0.04
+                      mirror assyout rear viewl      1        0.04
+                                      grill rad      1        0.04
+                                        hinge 1      1        0.04
+                      garnish fr bumper lower l      1        0.04
+                              tie rod end right      1        0.04
+                    cover engine  under side rh      1        0.04
+                                   moldingroofl      1        0.04
+                  trim assembly cowl side right      1        0.04
+                      handle comprear door outr      1        0.04
+                             holderrr bpr sider      1        0.04
+                                filter assy oil      1        0.04
+          running boardgusset inner panel right      1        0.04
+                              air drying sealer      1        0.04
+                            back panel assembly      1        0.04
+                         cover battery terminal      1        0.04
+                                 cover fender l      1        0.04
+                   weatherstrip door fr open rh      1        0.04
+                               panel instrument      1        0.04
+                         latch front right door      1        0.04
+                    mounting rdtr support lower      1        0.04
+                     tape rear door outer rr rh      1        0.04
+                            grille compradiator      1        0.04
+                   hook comp spare tire carrier      1        0.04
+                                          ws fr      1        0.04
+                         sensor comp fr wheel l      1        0.04
+                                       brcket 1      1        0.04
+                              garnish rad grill      1        0.04
+                                covrear splashr      1        0.04
+                                   guard assyrr      1        0.04
+                               bezel fog lamp r      1        0.04
+                             mounting engine rr      1        0.04
+                                     glass comp      1        0.04
+                       holder fr bumper side lh      1        0.04
+                         bearing clutch release      1        0.04
+                    radiator cooling fan shroud      1        0.04
+                                    lining clip      1        0.04
+                    outer handle door rear left      1        0.04
+                       bar compfront stabilizer      1        0.04
+                      wheel rim steel rear left      1        0.04
+                      grille fr bumper lower lh      1        0.04
+                      cover compfr bumper lower      1        0.04
+                           hose deg tank outlet      1        0.04
+                        spoiler back door black      1        0.04
+                             liningfront fender      1        0.04
+                     cylinder assy clutch slave      1        0.04
+                       panel roof side outer lh      1        0.04
+                              trim comptail end      1        0.04
+                                       air duct      1        0.04
+                      panel fr pillar inr up rh      1        0.04
+                                     dg sealant      1        0.04
+                             bracelamp supportr      1        0.04
+                         arm assy fr suspension      1        0.04
+                        tape rear dr outer rr l      1        0.04
+                    emblemlogo rear right top 2      1        0.04
+                            barfront stabilizer      1        0.04
+                            glass qtr window rh      1        0.04
+                      memberapron side outer lh      1        0.04
+                                      panelroof      1        0.04
+                                 mountingeng lh      1        0.04
+                                brace comp lock      1        0.04
+                       lining compfront fenderr      1        0.04
+                                        sealant      1        0.04
+                                  hinge comp rh      1        0.04
+                         inner upper panel left      1        0.04
+            glass quarter fixed rear door right      1        0.04
+                                    panel front      1        0.04
+                     absorber compfr bmpr lower      1        0.04
+                          garnish comp cowl top      1        0.04
+                                front end lower      1        0.04
+                       panel comprr lamp housel      1        0.04
+                    tape rear door outer upr rh      1        0.04
+                                 thrmostate cap      1        0.04
+                  garnish assyback door license      1        0.04
+                                         hinges      1        0.04
+                             panel unit auto ac      1        0.04
+                                  holder bumper      1        0.04
+                             sash fr door rr lh      1        0.04
+                               wheelhouse fr rh      1        0.04
+             cabin floor under guard cover left      1        0.04
+                           glassrear partitionr      1        0.04
+                                           horn      1        0.04
+                                        a c can      1        0.04
+                            reinf ctr pillar rh      1        0.04
+                          sashrr door window lh      1        0.04
+                            brace comphood lock      1        0.04
+                          right engine mounting      1        0.04
+                           unit lamp front turn      1        0.04
+                                brkt eng lh mtg      1        0.04
+                               knuckle setstrgl      1        0.04
+                            bezel fr fog lamp r      1        0.04
+                                holderfr siderh      1        0.04
+                               wire driver door      1        0.04
+                                 arm assy wiper      1        0.04
+                         cshion back door lower      1        0.04
+                             bumper front black      1        0.04
+                    bumper moulding front right      1        0.04
+                                alto 800 emblem      1        0.04
+                       membercowl side outer lh      1        0.04
+        cladding running boardgusset panel left      1        0.04
+                weatherstrip front door inner l      1        0.04
+                           panel compfront hood      1        0.04
+                             covfront end lower      1        0.04
+                                  liningfront r      1        0.04
+                                    damper left      1        0.04
+                            member front bumper      1        0.04
+                         garnishfront fog lampl      1        0.04
+                             hinge comp hood lh      1        0.04
+                                towing hook cap      1        0.04
+                                  trim rear qtr      1        0.04
+                          cable parking brake l      1        0.04
+                             lining fender fr r      1        0.04
+                          coolant golden yellow      1        0.04
+                             bezelfr fog lamprh      1        0.04
+                            multi air disc p320      1        0.04
+                                  lining fdr lh      1        0.04
+                          hinge comp front hd l      1        0.04
+                    decal side strip lh 3 parts      1        0.04
+                             grill bumper upper      1        0.04
+                            member strg support      1        0.04
+                                         ac gas      1        0.04
+                         bezel front fog lamp r      1        0.04
+                              hinge comp frt lh      1        0.04
+                           opener comp fuel lid      1        0.04
+                                      fender lh      1        0.04
+                                      hinges lh      1        0.04
+                     glass compfront dr windowr      1        0.04
+                         panel comprr whl house      1        0.04
+                          brace lamp support rh      1        0.04
+                        member  comp hood  lock      1        0.04
+                                 mbr frt bumper      1        0.04
+                              bezal fog lamp lh      1        0.04
+                          bracket engine mtg lh      1        0.04
+                         trim rear door opening      1        0.04
+                              bezelfr fog lampl      1        0.04
+                                seat belt right      1        0.04
+                    total loss basis settlement      1        0.04
+         weatherstrip assembly door front right      1        0.04
+                             charger assy turbo      1        0.04
+                                  sensor oxygen      1        0.04
+                        glassfront door windowl      1        0.04
+                                          guard      1        0.04
+                          balancer back door rh      1        0.04
+                            panel assyfront end      1        0.04
+ retainer assembly rear bumper cover mounting 1      1        0.04
+                                hoserdtr outlet      1        0.04
+                            rh front door hinge      1        0.04
+                          strut setfront spnsnr      1        0.04
+                                  frt fog lamps      1        0.04
+                         cover strg column hole      1        0.04
+                                silencer bonnet      1        0.04
+                         tank assywater reserve      1        0.04
+                         guard side sill splash      1        0.04
+                           gasket liquid engine      1        0.04
+                guard assly rr fender splash rh      1        0.04
+                          hinge frt door upr rh      1        0.04
+                       bumper under guard cover      1        0.04
+                        panel side body outer r      1        0.04
+                                      brake oil      1        0.04
+                        front door glass run rh      1        0.04
+                                          sleep      1        0.04
+                         glass out rear view rh      1        0.04
+                                   auto ac unit      1        0.04
+                                   rh rear door      1        0.04
+                    mountradiator support lower      1        0.04
+                     lamp assy side turn signal      1        0.04
+                                sensor assy cmp      1        0.04
+                                  strut front r      1        0.04
+                                   cvt oil sump      1        0.04
+                          frame assy fr cush lh      1        0.04
+                            bearing input shaft      1        0.04
+                               alloy wheel grey      1        0.04
+                   outer handle door front left      1        0.04
+                       wheel housing rear right      1        0.04
+                             sash rear door lhs      1        0.04
+                        lining compfront fender      1        0.04
+                         garnish fog light left      1        0.04
+                                pump assy front      1        0.04
+                                       urethane      1        0.04
+                              pan main floor lh      1        0.04
+                                doorfuel filler      1        0.04
+                     weatherstriprear door outl      1        0.04
+                     glass comp backdoor window      1        0.04
+                              sensor assy speed      1        0.04
+                                  rh tail light      1        0.04
+                                       holderfr      1        0.04
+                        trim compquarter upperr      1        0.04
+                         shaft assyfront drivel      1        0.04
+                            glass rr door rh lh      1        0.04
+                   switch assy wiper and washer      1        0.04
+                               oringoil gallery      1        0.04
+                          hose fuel tank filler      1        0.04
+                                nut drive shaft      1        0.04
+                         skid plate bumper rear      1        0.04
+                          arm comp rr dr upr lh      1        0.04
+                        emblemlogo fender right      1        0.04
+                             pipe air clnr suct      1        0.04
+                      weatherstriprear dr opngl      1        0.04
+                    link wiper front windshield      1        0.04
+                                fan assycooling      1        0.04
+                           glass set windshield      1        0.04
+                       door moulding front left      1        0.04
+                             module assy airbag      1        0.04
+                           coverfront end lower      1        0.04
+                            hose radiator inlet      1        0.04
+                                         clips5      1        0.04
+                                case blower box      1        0.04
+                            bracket rear bumper      1        0.04
+                               lamp assy fr fog      1        0.04
+                          pipe comp water floor      1        0.04
+                            skrit rr air dam lh      1        0.04
+                            tape fr pillar rr l      1        0.04
+                     garnish compcowl top sidel      1        0.04
+                          garnish rr qtr otr lh      1        0.04
+                                       holderrr      1        0.04
+                              bezel fog lamp rh      1        0.04
+                          front fog lampyn4 ins      1        0.04
+                        garnishfront fog lamprh      1        0.04
+                                         covers      1        0.04
+                                       liner rh      1        0.04
+                             butyl sealing tape      1        0.04
+                                      bezel rhs      1        0.04
+                                absorber compfr      1        0.04
+    wiper blade front windshield passenger side      1        0.04
+                                    crossmember      1        0.04
+                      guard side sill splash rh      1        0.04
+                                            cip      1        0.04
+               sealant front windshield glass 3      1        0.04
+                                    traybattery      1        0.04
+                                 hoserdtr inlet      1        0.04
+                               unit headlamp lh      1        0.04
+                                  graphicas set      1        0.04
+                            cover cylinder head      1        0.04
+                    arm assy front suspension l      1        0.04
+                           wheel compal16x6 12j      1        0.04
+                                          clips      1        0.04
+                     reinf rr wheel house fr rh      1        0.04
+                         link stabilizer bar rh      1        0.04
+                     pipe  ma sec to fr bk hose      1        0.04
+                     grille radiator lowerblack      1        0.04
+                              unit head lamp lh      1        0.04
+                                 extension assy      1        0.04
+                       silencer comp front hood      1        0.04
+                           run frt door glass r      1        0.04
+                  cylinder assyclutch operating      1        0.04
+                              emblem vvt chrome      1        0.04
+                       cover engine under sider      1        0.04
+                       decalside stripe rr qtrr      1        0.04
+                                         stop 1      1        0.04
+                                   exhaust pipe      1        0.04
+                      guard assyrr bumper sidel      1        0.04
+                         tail light right dicky      1        0.04
+                                     filter oil      1        0.04
+                                     motor assy      1        0.04
+         weatherstrip rear door belt inner left      1        0.04
+                                        coolent      1        0.04
+                             silencerengine no1      1        0.04
+                 hoseradiator oulet no1lx  vxmt      1        0.04
+                               shroudair intake      1        0.04
+                                 amazer 3g tyre      1        0.04
+                   steering column cover bottom      1        0.04
+                                 paint material      1        0.04
+                                    emblem rear      1        0.04
+                                   emblemertiga      1        0.04
+                             striker door latch      1        0.04
+                                 rh mirror assy      1        0.04
+                        granish grille upper rh      1        0.04
+                     glass compback door window      1        0.04
+                         control arm shaft left      1        0.04
+                                wheel comp14x5j      1        0.04
+                        holder fr bumper side r      1        0.04
+                           cover engine under l      1        0.04
+                                  mbr fr bumper      1        0.04
+                           fender deck rear no2      1        0.04
+                      a pillar front inner left      1        0.04
+                              garnish cowltop l      1        0.04
+                    engine cover right and left      1        0.04
+        door rear view mirror glass outer right      1        0.04
+                    garnishradiator grille uprl      1        0.04
+                               crossmember assy      1        0.04
+                parcel tray luggage compartment      1        0.04
+                               antenna assembly      1        0.04
+                     emblemlogo rear left top 1      1        0.04
+                      weather stripe f rdoor rh      1        0.04
+                             belt assy front lh      1        0.04
+                                  net front bum      1        0.04
+                bumper reinforcement rear right      1        0.04
+                             emblembalenochrome      1        0.04
+                          muffler assembly main      1        0.04
+                             cable contact coil      1        0.04
+                   arm assy front spnsn control      1        0.04
+                         holderfr bumper sidelh      1        0.04
+                         memberradiator support      1        0.04
+                         garnishfr bumper sider      1        0.04
+                reinforcement comp dash side lh      1        0.04
+                             tank water reserve      1        0.04
+                               holderspare tire      1        0.04
+                              grommetfront hood      1        0.04
+                           emblem maruti suzuki      1        0.04
+                               windshield glass      1        0.04
+                       bezeldoor inside handler      1        0.04
+                          strut assyfront spnsn      1        0.04
+                  hub assembly front left wheel      1        0.04
+                       pipe air cleaner suction      1        0.04
+                        cover comp engine under      1        0.04
+                            bolt frt hood hinge      1        0.04
+                             panelrear floor rr      1        0.04
+                                   tie rod strg      1        0.04
+                          extensionapron frontr      1        0.04
+                                  belt assyfrlh      1        0.04
+                             cable spark plug 1      1        0.04
+                     mirror assyout rear viewlh      1        0.04
+                               tyre front right      1        0.04
+                        head light support left      1        0.04
+                                lining fender r      1        0.04
+                        adjuster assy tensioner      1        0.04
+                        decalside stripe fr drr      1        0.04
+                     bezel front fog lamp right      1        0.04
+                                       mud flap      1        0.04
+                                    under cover      1        0.04
+              bracket radiator support upper lh      1        0.04
+                                          motor      1        0.04
+                       holderfr bumper frontr r      1        0.04
+                                      tail gate      1        0.04
+                         horn assy high pitched      1        0.04
+                    emblem maruti suzuki chrome      1        0.04
+                     bezel fr fog lamp lh black      1        0.04
+                               cap front bumper      1        0.04
+                                  panel aplr lh      1        0.04
+                                    sealent set      1        0.04
+                              holder fr side rh      1        0.04
+                                   latch comphd      1        0.04
+                     member apron side outer rh      1        0.04
+                             holder front sides      1        0.04
+                                         gasket      1        0.04
+                           trim front pillar lh      1        0.04
+                             head lamp  assy rh      1        0.04
+                            thermostat assembly      1        0.04
+                              reinf roof side l      1        0.04
+                               actuator assyesp      1        0.04
+                                roof molding lh      1        0.04
+                           strikerglove box lid      1        0.04
+                         panel compdash side rh      1        0.04
+                             panel fr fender lh      1        0.04
+                    guard assyfr fender splashl      1        0.04
+                   garnishradiator upper grille      1        0.04
+                            windshield moulding      1        0.04
+                      ac condenser fan assembly      1        0.04
+                            wheel sassysteering      1        0.04
+                        arm assy frt suspension      1        0.04
+                           emblem ertiga chrome      1        0.04
+                             cap assywheel full      1        0.04
+                                   guide grille      1        0.04
+                     lining comp front fender r      1        0.04
+                         cvr front end upper lh      1        0.04
+                         taperear dr outer rrlh      1        0.04
+                             mirror assy out rh      1        0.04
+                         extension assyfr bpr l      1        0.04
+                             support strut left      1        0.04
+                   cover  fr fog lamp  bezel lh      1        0.04
+                                   emblem swift      1        0.04
+                              bumper frontblack      1        0.04
+                           outlet ventilator 02      1        0.04
+                                    emblem omni      1        0.04
+                              accelerator pedal      1        0.04
+              corner panel assembly front right      1        0.04
+                         garnishfr bumper sidel      1        0.04
+                      strength comp side sill l      1        0.04
+                           valve canister purge      1        0.04
+                          brkt radiator support      1        0.04
+                                   spark plug 1      1        0.04
+                      garnish rdtr upper grille      1        0.04
+                           memberroof ctr inner      1        0.04
+                     garnish front bumper lower      1        0.04
+                                      fog lamps      1        0.04
+                   member comp steering support      1        0.04
+                        panelwheel house outerr      1        0.04
+                         trim ctr pillar lowerl      1        0.04
+                         hinge comp trunk lid l      1        0.04
+                              bumper rear right      1        0.04
+                         handle front dr out lh      1        0.04
+                           stop door open front      1        0.04
+quarter panel wheel well liningguardcover right      1        0.04
+                     springrelease shaft return      1        0.04
+                                    tail lamp l      1        0.04
+                                          clip1      1        0.04
+                                    lh strut fr      1        0.04
+                  reinf comp front door hinge l      1        0.04
+                        holder rr bumper side l      1        0.04
+                                 cover arm head      1        0.04
+                          panel instrument main      1        0.04
+                        garnish cowl top side l      1        0.04
+                                  seal cs front      1        0.04
+                                lining comproof      1        0.04
+                                gasketintk manf      1        0.04
+                       panel compfender apron r      1        0.04
+                             front grille upper      1        0.04
+                        member steering support      1        0.04
+                        garnish back door lower      1        0.04
+                                     hoseliquid      1        0.04
+                  dg sealant set without primer      1        0.04
+                            lining fr fender rh      1        0.04
+                                     latch assy      1        0.04
+                                      member fr      1        0.04
+                                  impact sensor      1        0.04
+                              cooler comp inter      1        0.04
+                                      bumper fr      1        0.04
+                              socket  cord assy      1        0.04
+                  constructive total loss basis      1        0.04
+                         member compfront sider      1        0.04
+                            hinge front hood lh      1        0.04
+                      dash upper crossmember rh      1        0.04
+                                    glass latch      1        0.04
+                              holder fr side lh      1        0.04
+                         lining front fender lh      1        0.04
+                  bush stabilizer bar support 1      1        0.04
+                                   pipe comp eh      1        0.04
+                        strength compside silll      1        0.04
+                                  bumper member      1        0.04
+                         torsion dead axle rear      1        0.04
+                            cap assy wheel full      1        0.04
+                                          lower      1        0.04
+                                       s emblem      1        0.04
+                 emblemlogo rear right bottom 1      1        0.04
+                              tankwater reserve      1        0.04
+                                sensor assypark      1        0.04
+                         cable assycontact coil      1        0.04
+                            joint stablizer bar      1        0.04
+                              grille assy lower      1        0.04
+                                      horn assy      1        0.04
+                                     valve tire      1        0.04
+                           rear bumper holder l      1        0.04
+                                      condenser      1        0.04
+                             member lamp suppor      1        0.04
+                            grommetwasher motor      1        0.04
+                                        screw 1      1        0.04
+                                      sash door      1        0.04
+                           brket fr fndr lwr lh      1        0.04
+                              module assyairbag      1        0.04
+                                  liquid gasket      1        0.04
+                                       bezelfog      1        0.04
+                          spoiler front air dam      1        0.04
+              cabin air filter pm 25 swiftbalen      1        0.04
+                extension front fender lower lh      1        0.04
+                                  front rh door      1        0.04
+                    holder frotn bumper side rh      1        0.04
+                             front cross member      1        0.04
+                            brkt bump nos 2 938      1        0.04
+                         emblem compswift dzire      1        0.04
+                garnish assy roof side outer lh      1        0.04
+                                   grille upper      1        0.04
+                          grommetrear comb lamp      1        0.04
+                               cover fr bpr lwr      1        0.04
+                               bracketpark snsr      1        0.04
+                  cover front fog lamp bezel lh      1        0.04
+                       cover fr fender upper lh      1        0.04
+                                   pipe suction      1        0.04
+                      bracket comp stabiliser l      1        0.04
+                             lining fr fender l      1        0.04
+                            grille radiator lwr      1        0.04
+                     grille comp radiator upper      1        0.04
+                                 silencerip top      1        0.04
+                           lamp unit rr comb lh      1        0.04
+                          hinge comp ft hood rh      1        0.04
+                              box assystrg gear      1        0.04
+                                belt assy fr rh      1        0.04
+                           holder rr bum side l      1        0.04
+                 gear boxtransmission case left      1        0.04
+                              mounting radiator      1        0.04
+                           panelinstrument main      1        0.04
+                              cover comp timing      1        0.04
+                    cover main floor under rhlh      1        0.04
+                              moldingwindshield      1        0.04
+                               brace bonnethood      1        0.04
+                  extension assy fr bpr side rh      1        0.04
+                          trimrear door opening      1        0.04
+                                netfront bumper      1        0.04
+                                  holder fr bpr      1        0.04
+                       16580r14 ecopia ep150 bs      1        0.04
+                               bezel fog lamp l      1        0.04
+                                brace hood lock      1        0.04
+                     tape front pillar upper lh      1        0.04
+                                         tierod      1        0.04
+                         carrier compspare tire      1        0.04
+                            trim roof headliner      1        0.04
+                        emblem dicky panel comp      1        0.04
+                                emblem alto k10      1        0.04
+                                         arm lh      1        0.04
+                        front wind shield glass      1        0.04
+                                     screw 5pcs      1        0.04
+                              panl dash side lh      1        0.04
+                          cov comp engine under      1        0.04
+                            emblem maruti suzuk      1        0.04
+                      garnish fog lamp bezel rh      1        0.04
+                                 dg sealant set      1        0.04
+                 unit lamp front turn signal lh      1        0.04
+                                 front fog lamp      1        0.04
+                               tie rod end left      1        0.04
+                           seat rear spring upp      1        0.04
+                                       bulb h11      1        0.04
+                                 rod rng rr trq      1        0.04
+                           tape rear door outer      1        0.04
+                               contact coil set      1        0.04
+                 reinf comp frt door striker rh      1        0.04
+                          handle rr door out rh      1        0.04
+                           member front side rh      1        0.04
+                    guard assyfr fender splashr      1        0.04
+                 panel comp wheel house outer r      1        0.04
+                                      lining lh      1        0.04
+                           panel front fender l      1        0.04
+               seal drive bevel pinion oil clip      1        0.04
+                            mountstabilizer bar      1        0.04
+                       weatherstrip side window      1        0.04
+                         seat belt front driver      1        0.04
+                           arm assy fr suspn rh      1        0.04
+                      seal differential side rh      1        0.04
+                          garnishtop siderblack      1        0.04
+                              ls fender linning      1        0.04
+                          panel comp cowl upper      1        0.04
+                            hose air clnr inlet      1        0.04
+                    fender indicator light left      1        0.04
+                          framefront suspension      1        0.04
+                     bracket radiator sup upper      1        0.04
+                                 sunvisor assyl      1        0.04
+                  tape front door outer roof rh      1        0.04
+                               knucklesteeringr      1        0.04
+                       splash guard fender rhlh      1        0.04
+                         member compfront lower      1        0.04
+                         member lamp support rh      1        0.04
+                       member comp front bumper      1        0.04
+                 unit lamp front turn signal rh      1        0.04
+                                        ft hood      1        0.04
+                               tail light panel      1        0.04
+                                       ws glass      1        0.04
+                               member hood lock      1        0.04
+                                glasswindshield      1        0.04
+                        moldingfr pillar lowerr      1        0.04
+                                 mirror assy rh      1        0.04
+                              lamp assyrr combl      1        0.04
+                  garnish radiator upper grille      1        0.04
+                             cover fr upper end      1        0.04
+                           thermostat cap water      1        0.04
+                              cap rear door out      1        0.04
+                    hose comp fr brake flexible      1        0.04
+                        control arm shaft right      1        0.04
+                    reinf compfront door hingel      1        0.04
+                             elementair cleaner      1        0.04
+                        member compstrg support      1        0.04
+                              pipeair clnr suct      1        0.04
+                                   strut kit rh      1        0.04
+                             holderrr bmr sidel      1        0.04
+                    hose egr water cooler inlet      1        0.04
+                       panel compfront corner l      1        0.04
+                                        bulb h1      1        0.04
+                                       glass ws      1        0.04
+                          cover engine under lh      1        0.04
+                         chanel comp rr glass l      1        0.04
+                    cable assy shift and select      1        0.04
+          bush shock absorber bottom front left      1        0.04
+               tape rear door outer fr rh black      1        0.04
+                              control hvac unit      1        0.04
+                               knuckle ft right      1        0.04
+                 ac control assembly middle row      1        0.04
+                           module assy  air bag      1        0.04
+                                cap fr bumper c      1        0.04
+                           fender lining rh  lh      1        0.04
+                    indicator lamp bumper right      1        0.04
+                                   stg srs ring      1        0.04
+                                           hose      1        0.04
+                      guard side sill splash lh      1        0.04
+                        trim compquarter lowerr      1        0.04
+                              panel dash side l      1        0.04
+                                    front lower      1        0.04
+                          hinge front  upper rh      1        0.04
+                extension apron side mbr lwr lh      1        0.04
+                            hinge front hood rh      1        0.04
+                        hose air cleaner outlet      1        0.04
+                             sensor assyforward      1        0.04
+                      bolt spnsn arm fr bushin2      1        0.04
+                                          tapes      1        0.04
+                   electronic control moduleecm      1        0.04
+                                      frlh belt      1        0.04
+                       moldingfr pillar lower l      1        0.04
+                           bracket bumper fr lh      1        0.04
+                                   valve intake      1        0.04
+                   lock assembly door rear left      1        0.04
+                                   mirror right      1        0.04
+                            cover fr end upr lh      1        0.04
+                                   cap reervoir      1        0.04
+                          hinge comp frt hood l      1        0.04
+                            wheel15x5 12jsilver      1        0.04
+                                       fog lamp      1        0.04
+                           rh bezal side chrome      1        0.04
+                      air filtercleaner element      1        0.04
+                   weatherstripfront door opngr      1        0.04
+                                   hinge left 2      1        0.04
+                                 pan engine oil      1        0.04
+                 panel comp rr quarter inner rh      1        0.04
+                       tail light housing right      1        0.04
+                    guard assyside sill splashl      1        0.04
+             repair cashloss mode of settlement      1        0.04
+                     glassside windowl versa o2      1        0.04
+                              brace comphd lock      1        0.04
+                           windsshied wash tank      1        0.04
+                               holder bumper lh      1        0.04
+                                 boxfuel filler      1        0.04
+                                cover relay box      1        0.04
+                               fender lining rh      1        0.04
+                                garnishcowl top      1        0.04
+                           beam assy rear spnsn      1        0.04
+                     panel compdash side frontr      1        0.04
+                               glassqtr windowr      1        0.04
+                                     tankwasher      1        0.04
+                               abs control unit      1        0.04
+                          cliproof molding body      1        0.04
+            bezel front fog lamp both 523423047      1        0.04
+                        holder fr bumper side l      1        0.04
+                                 coverrelay box      1        0.04
+                 garnish assy back door license      1        0.04
+              rear view door mirror cover right      1        0.04
+                              cover under right      1        0.04
+                             garnish fr lower r      1        0.04
+                        member radiator support      1        0.04
+                           hub assy front wheel      1        0.04
+                      garnish fr pillar outer l      1        0.04
+                          spoiler assyback door      1        0.04
+                    weatherstriprear door opngr      1        0.04
+            cabin floor under guard cover right      1        0.04
+                            wiring harness main      1        0.04
+                                  airbag sensor      1        0.04
+                      cover engine under side r      1        0.04
+                                          brace      1        0.04
+                               bcp chrome dzire      1        0.04
+                         holderfr bumper frontr      1        0.04
+                              spacer spare tire      1        0.04
+                          trim qtr inner lwr lh      1        0.04
+                          cover front fender lh      1        0.04
+                               sensor oxygen rr      1        0.04
+                            memberlamp supportr      1        0.04
+                                         lining      1        0.04
+                                emblemvxichrome      1        0.04
+                                 compressor oil      1        0.04
+                           lock assy rr back rh      1        0.04
+                         holder front bumper rh      1        0.04
+                      lamp assy side turn sig r      1        0.04
+                                  bonnet hinges      1        0.04
+                                           seal      1        0.04
+                           body side panel left      1        0.04
+                 quarter panel glass fixed left      1        0.04
+                 garnish bumper head light left      1        0.04
+                       hinge rear door upper lh      1        0.04
+                                     bumperrear      1        0.04
+                                      crash pad      1        0.04
+                     panel wheel house inner rh      1        0.04
+                            lamp assyfront comp      1        0.04
+                         cover assy strg column      1        0.04
+                sealant rear windshield glass 2      1        0.04
+                           lamp assy rr comb rh      1        0.04
+                                swith asy comby      1        0.04
+                           center b pillar left      1        0.04
+                           holder fr bpr side r      1        0.04
+                            pump assy fr washer      1        0.04
+                   panel compwheel house outerr      1        0.04
+                         holderfr bumper side l      1        0.04
+                     mirror assy inside rr view      1        0.04
+                                     screw 6x10      1        0.04
+                           clampclutch oil pipe      1        0.04
+                          gasket breather plate      1        0.04
+                                  magnet clutch      1        0.04
+                              trim dashboard lh      1        0.04
+                                        bezel r      1        0.04
+                                  fender lining      1        0.04
+                                   body sticker      1        0.04
+                                      tape rr 3      1        0.04
+                   tape front door outer upr rh      1        0.04
+                               brace support rh      1        0.04
+                                  knuckle right      1        0.04
+                             pad front fender l      1        0.04
+                                      emblemxl6      1        0.04
+                                memberhood lock      1        0.04
+                          holder fr bumper rhlh      1        0.04
+                                runrear  glassl      1        0.04
+                         bezel front fog lamp l      1        0.04
+                          coverstrg column hole      1        0.04
+                        fan assy engine cooling      1        0.04
+                            setglass windshield      1        0.04
+                               joint stabilizer      1        0.04
+                               member ft bumper      1        0.04
+                                   lamp support      1        0.04
+                  tape fr pillar upper rh black      1        0.04
+                        switch assy combination      1        0.04
+                                    turn signal      1        0.04
+                                      covermark      1        0.04
+                         stop compfront dr open      1        0.04
+                      guard ft fender splash rh      1        0.04
+                          frame rr back side lh      1        0.04
+                           joint stabilizer bar      1        0.04
+                              bracket rear left      1        0.04
+                       taperear door outer frrh      1        0.04
+                         hinge dickytrunk right      1        0.04
+                                     mggo total      1        0.04
+                     arm comprear door upper rh      1        0.04
+                       cover front door sealing      1        0.04
+                                     tape front      1        0.04
+                          moulding fr piller rh      1        0.04
+                           hose radiator outlet      1        0.04
+         insulator strut suspension front right      1        0.04
+                          tape rear outer fr rh      1        0.04
+                             tape fr outer door      1        0.04
+                                grille radiator      1        0.04
+                              balance back dr l      1        0.04
+                    trim scuff plate dickytrunk      1        0.04
+                                pipe inlet comp      1        0.04
+                              stay comp fr hood      1        0.04
+                             panel fr fender rh      1        0.04
+                   extension compside body otrl      1        0.04
+                                glass quater lh      1        0.04
+                          garnishrr bmper upper      1        0.04
+                               lamp assylicense      1        0.04
+                       garnish front bumper ctr      1        0.04
+                                 sealent set 03      1        0.04
+                    holder front bumper side lh      1        0.04
+                     trim dickytrunk left lower      1        0.04
+                  cable comp hood latch release      1        0.04
+                    mounting rdtr support upper      1        0.04
+                                         battry      1        0.04
+                   mirror assy out rear view lh      1        0.04
+                                    emblem ddis      1        0.04
+                                 panelair guard      1        0.04
+                        garnish ip drvr outside      1        0.04
+                               harness set main      1        0.04
+                                   holder fr lh      1        0.04
+                            latch assyback door      1        0.04
+                                       fan assy      1        0.04
+                extension front bumper lower rh      1        0.04
+                              bracketfog bezell      1        0.04
+                      garnish fr bumper lower r      1        0.04
+                              cover fndr top lh      1        0.04
+                  cover comp front bumper lower      1        0.04
+                               holder hood stay      1        0.04
+                                  lining fen rh      1        0.04
+                                     latch comp      1        0.04
+                           cylinder head gasket      1        0.04
+                    grille radiator lower black      1        0.04
+                           panel assy rr door r      1        0.04
+    latch and actuator assembly rear door right      1        0.04
+                          garnishcowl top sider      1        0.04
+                         panel wheel housing rh      1        0.04
+                              garnish fr bmpr r      1        0.04
+                           handle side door out      1        0.04
+                    garnish quarter panel right      1        0.04
+                           runfront door glassl      1        0.04
+                      tapefront door pillar rrr      1        0.04
+                          panel assyrear door r      1        0.04
+                     channel ft door glass left      1        0.04
+                            motor assy starting      1        0.04
+                                  flywheel comp      1        0.04
+                      mirror assyout rear viewr      1        0.04
+         longitudnal member engine support left      1        0.04
+                   bracket front fender lower r      1        0.04
+                                       terminal      1        0.04
+                                 flapmud frontl      1        0.04
+                                    headlamp rh      1        0.04
+                                 condesnor assy      1        0.04
+                    weatherstripfront door opng      1        0.04
+                       carpet compluggage floor      1        0.04
+                          wiring harness engine      1        0.04
+                    weatherstripfront door outl      1        0.04
+                           sensor  assy forward      1        0.04
+                   panel comp fr pillar inner r      1        0.04

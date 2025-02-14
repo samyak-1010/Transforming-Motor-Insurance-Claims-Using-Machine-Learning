@@ -1,0 +1,965 @@
+Merged Data Sample:
+     REFERENCE_NUM PRODUCT_INDEX_x VEHICLE_MODEL_CODE  ...        PARTDESCRIPTION  TOTAL_AMOUNT_y NUM_CLAIM_NO_y
+0  202205210064607         N000706            41761.0  ...                packing           50.78   2.300221e+19
+1  202112230093050         N000706            39251.0  ...  panel assy  trunk lid         3195.31   2.300223e+19
+2  202205210064607         N000706            41761.0  ...                packing           50.78   2.300221e+19
+3  202203140062099         N000706            23101.0  ...       glass windshield         3262.71   2.300222e+19
+4  202108260057320         N000706            41761.0  ...          radiator assy         3714.84   2.300222e+19
+
+[5 rows x 15 columns]
+Part Mapping using Fuzzy Matching:
+               Surveyor Part           Garage Part
+0        bonnethood assembly                  None
+1       beam assy rear spnsn  beam assy rear spnsn
+2      hinge bonnethood left                  None
+3            emblem s chrome       emblem s chrome
+4  moulding front windshield   moulding windshield
+Part Mapping using Cosine Similarity:
+               Surveyor Part             Garage Part
+0        bonnethood assembly        latch bonnethood
+1       beam assy rear spnsn    beam assy rear spnsn
+2      hinge bonnethood left  hinge bonnethood right
+3            emblem s chrome         emblem s chrome
+4  moulding front windshield     moulding windshield
+Frequent Itemsets:
+    support                   itemsets
+0  0.071429    (airbag control module)
+1  0.071429          (belt assy fr lh)
+2  0.071429  (bezel front fog lamp rh)
+3  0.071429                     (clip)
+4  0.071429           (clip door trim)
+Top Association Rules:
+                 antecedents                consequents  antecedent support  ...  jaccard  certainty  kulczynski
+0         (contact coil set)    (airbag control module)            0.071429  ...      1.0        1.0         1.0
+1    (airbag control module)         (contact coil set)            0.071429  ...      1.0        1.0         1.0
+2           (clip door trim)  (bezel front fog lamp rh)            0.071429  ...      1.0        1.0         1.0
+3  (bezel front fog lamp rh)           (clip door trim)            0.071429  ...      1.0        1.0         1.0
+
+[4 rows x 14 columns]
+Recommendations using TruncatedSVD:
+["'23002201063900000001", "'23002224412100000001", "'23002225975900000001", "'23002210593900000001", "'23002218552300000001"]
+Suspicious Claims Detected:
+                 CLAIMNO  TOTAL_AMOUNT_y  Anomaly_Score
+7  '23002244436800000001         4414.06             -1
+Most Commonly Damaged Parts:
+                          Part Name  Count  Percentage
+0             bumper front assembly    160        6.40
+1              bumper rear assembly     78        3.12
+2                  head light right     66        2.64
+3                   head light left     63        2.52
+4            windshield glass front     59        2.36
+5           fender panel front left     46        1.84
+6  sealant front windshield glass 1     46        1.84
+7               bonnethood assembly     43        1.72
+8          fender panel front right     41        1.64
+9         moulding front windshield     35        1.40
+Claim Distribution by Primary Parts:
+   Primary Part Code  Claim Count
+0               9999         1049
+1               1001          160
+2               1007           78
+3               1023           66
+4               1022           63
+5               1003           59
+6               1036           46
+7               1020           46
+8               1002           43
+9               1021           41
+Top Secondary Parts for each Primary Part:
+Primary Part: 9999
+TXT_PARTS_NAME
+clip                             14
+holder                            9
+bolt                              9
+air drying sealant                8
+coolant                           6
+tank assy                         5
+holderfr bumper sidel             5
+radiator assy                     5
+absorber comp fr bumper lower     5
+emblemmarks                       5
+Name: count, dtype: int64
+Primary Part: 1001
+TXT_PARTS_NAME
+bumper front assembly    160
+Name: count, dtype: int64
+Primary Part: 1007
+TXT_PARTS_NAME
+bumper rear assembly    78
+Name: count, dtype: int64
+Primary Part: 1023
+TXT_PARTS_NAME
+head light right    66
+Name: count, dtype: int64
+Primary Part: 1022
+TXT_PARTS_NAME
+head light left    63
+Name: count, dtype: int64
+Primary Part: 1003
+TXT_PARTS_NAME
+windshield glass front    59
+Name: count, dtype: int64
+Primary Part: 1036
+TXT_PARTS_NAME
+sealant front windshield glass 1    46
+Name: count, dtype: int64
+Primary Part: 1020
+TXT_PARTS_NAME
+fender panel front left    46
+Name: count, dtype: int64
+Primary Part: 1002
+TXT_PARTS_NAME
+bonnethood assembly    43
+Name: count, dtype: int64
+Primary Part: 1021
+TXT_PARTS_NAME
+fender panel front right    41
+Name: count, dtype: int64
+Primary Part: 1035
+TXT_PARTS_NAME
+moulding front windshield    35
+Name: count, dtype: int64
+Primary Part: 2053
+TXT_PARTS_NAME
+hinge bonnethood left    32
+Name: count, dtype: int64
+Primary Part: 2054
+TXT_PARTS_NAME
+hinge bonnethood right    31
+Name: count, dtype: int64
+Primary Part: 1053
+TXT_PARTS_NAME
+ac condenser assembly    28
+Name: count, dtype: int64
+Primary Part: 1024
+TXT_PARTS_NAME
+grille radiator upper    26
+Name: count, dtype: int64
+Primary Part: 2051
+TXT_PARTS_NAME
+grille radiator lower    24
+Name: count, dtype: int64
+Primary Part: 2360
+TXT_PARTS_NAME
+bracket 1    21
+Name: count, dtype: int64
+Primary Part: 1337
+TXT_PARTS_NAME
+radiator assembly    21
+Name: count, dtype: int64
+Primary Part: 1008
+TXT_PARTS_NAME
+tail light left    19
+Name: count, dtype: int64
+Primary Part: 1009
+TXT_PARTS_NAME
+tail light right    19
+Name: count, dtype: int64
+Primary Part: 2052
+TXT_PARTS_NAME
+grille radiator middle    16
+Name: count, dtype: int64
+Primary Part: 1006
+TXT_PARTS_NAME
+dicky  trunk assembly    15
+Name: count, dtype: int64
+Primary Part: 2094
+TXT_PARTS_NAME
+side rear view mirror outer assembly right    15
+Name: count, dtype: int64
+Primary Part: 1926
+TXT_PARTS_NAME
+bumper front upper    14
+Name: count, dtype: int64
+Primary Part: 1015
+TXT_PARTS_NAME
+door rear right    14
+Name: count, dtype: int64
+Primary Part: 1086
+TXT_PARTS_NAME
+emblemlogo rear middle    13
+Name: count, dtype: int64
+Primary Part: 1475
+TXT_PARTS_NAME
+fender wheel well liningguardcover left    12
+Name: count, dtype: int64
+Primary Part: 1476
+TXT_PARTS_NAME
+fender wheel well liningguardcover right    12
+Name: count, dtype: int64
+Primary Part: 1810
+TXT_PARTS_NAME
+cover fog light right    11
+Name: count, dtype: int64
+Primary Part: 2081
+TXT_PARTS_NAME
+sealant body 1    11
+Name: count, dtype: int64
+Primary Part: 1014
+TXT_PARTS_NAME
+door rear left    10
+Name: count, dtype: int64
+Primary Part: 1016
+TXT_PARTS_NAME
+door front left    10
+Name: count, dtype: int64
+Primary Part: 1921
+TXT_PARTS_NAME
+bumper front lower    10
+Name: count, dtype: int64
+Primary Part: 1439
+TXT_PARTS_NAME
+bracket front bumper right    10
+Name: count, dtype: int64
+Primary Part: 1463
+TXT_PARTS_NAME
+carrier radiator support lower member    9
+Name: count, dtype: int64
+Primary Part: 1017
+TXT_PARTS_NAME
+door front right    9
+Name: count, dtype: int64
+Primary Part: 2361
+TXT_PARTS_NAME
+bracket 2    8
+Name: count, dtype: int64
+Primary Part: 1010
+TXT_PARTS_NAME
+quarter panel rear left    8
+Name: count, dtype: int64
+Primary Part: 1411
+TXT_PARTS_NAME
+sealant rear windshield glass 1    8
+Name: count, dtype: int64
+Primary Part: 1339
+TXT_PARTS_NAME
+radiator cooling fan assembly    8
+Name: count, dtype: int64
+Primary Part: 2348
+TXT_PARTS_NAME
+reservoir tank assembly windshield washer    8
+Name: count, dtype: int64
+Primary Part: 1060
+TXT_PARTS_NAME
+ac gas  refrigerant    7
+Name: count, dtype: int64
+Primary Part: 1005
+TXT_PARTS_NAME
+windshield glass rear    7
+Name: count, dtype: int64
+Primary Part: 1824
+TXT_PARTS_NAME
+fog light front right    6
+Name: count, dtype: int64
+Primary Part: 1066
+TXT_PARTS_NAME
+pipetube liquid    6
+Name: count, dtype: int64
+Primary Part: 1011
+TXT_PARTS_NAME
+quarter panel rear right    6
+Name: count, dtype: int64
+Primary Part: 1938
+TXT_PARTS_NAME
+bumper rear upper    6
+Name: count, dtype: int64
+Primary Part: 2132
+TXT_PARTS_NAME
+brackets    6
+Name: count, dtype: int64
+Primary Part: 1809
+TXT_PARTS_NAME
+cover fog light left    6
+Name: count, dtype: int64
+Primary Part: 1933
+TXT_PARTS_NAME
+bumper rear lower    6
+Name: count, dtype: int64
+Primary Part: 2264
+TXT_PARTS_NAME
+strut mcpherson front right    6
+Name: count, dtype: int64
+Primary Part: 1874
+TXT_PARTS_NAME
+latch bonnethood    5
+Name: count, dtype: int64
+Primary Part: 2242
+TXT_PARTS_NAME
+lower arm front right    5
+Name: count, dtype: int64
+Primary Part: 1190
+TXT_PARTS_NAME
+horn assembly low pitch    5
+Name: count, dtype: int64
+Primary Part: 1435
+TXT_PARTS_NAME
+bracket front bumper left    5
+Name: count, dtype: int64
+Primary Part: 1691
+TXT_PARTS_NAME
+seat belt front passenger    5
+Name: count, dtype: int64
+Primary Part: 1276
+TXT_PARTS_NAME
+engine cover right    4
+Name: count, dtype: int64
+Primary Part: 2093
+TXT_PARTS_NAME
+side rear view mirror outer assembly left    4
+Name: count, dtype: int64
+Primary Part: 1029
+TXT_PARTS_NAME
+wheel rim steel front left    4
+Name: count, dtype: int64
+Primary Part: 1461
+TXT_PARTS_NAME
+carrier radiator support center member 1    4
+Name: count, dtype: int64
+Primary Part: 1037
+TXT_PARTS_NAME
+sealant front windshield glass 2    4
+Name: count, dtype: int64
+Primary Part: 1443
+TXT_PARTS_NAME
+bumper absorber front 1    4
+Name: count, dtype: int64
+Primary Part: 2263
+TXT_PARTS_NAME
+strut mcpherson front left    4
+Name: count, dtype: int64
+Primary Part: 1447
+TXT_PARTS_NAME
+bumper rail front    4
+Name: count, dtype: int64
+Primary Part: 1474
+TXT_PARTS_NAME
+engine under guard cover    4
+Name: count, dtype: int64
+Primary Part: 1025
+TXT_PARTS_NAME
+tyre front left    4
+Name: count, dtype: int64
+Primary Part: 1430
+TXT_PARTS_NAME
+bonnethood lock panel    4
+Name: count, dtype: int64
+Primary Part: 1275
+TXT_PARTS_NAME
+engine cover left    4
+Name: count, dtype: int64
+Primary Part: 1278
+TXT_PARTS_NAME
+engine mount 1    3
+Name: count, dtype: int64
+Primary Part: 1428
+TXT_PARTS_NAME
+apron fender right    3
+Name: count, dtype: int64
+Primary Part: 1334
+TXT_PARTS_NAME
+hose radiator lower    3
+Name: count, dtype: int64
+Primary Part: 1028
+TXT_PARTS_NAME
+tyre rear right    3
+Name: count, dtype: int64
+Primary Part: 2181
+TXT_PARTS_NAME
+drive shaft constant velocity axle left    3
+Name: count, dtype: int64
+Primary Part: 1381
+TXT_PARTS_NAME
+glass front door window left    3
+Name: count, dtype: int64
+Primary Part: 1107
+TXT_PARTS_NAME
+battery tray    3
+Name: count, dtype: int64
+Primary Part: 1158
+TXT_PARTS_NAME
+coolant liquid    3
+Name: count, dtype: int64
+Primary Part: 2310
+TXT_PARTS_NAME
+inter cooler    3
+Name: count, dtype: int64
+Primary Part: 2040
+TXT_PARTS_NAME
+garnish fender left    3
+Name: count, dtype: int64
+Primary Part: 2393
+TXT_PARTS_NAME
+tow hook cover bumper front    3
+Name: count, dtype: int64
+Primary Part: 2058
+TXT_PARTS_NAME
+hinge bottom door rear right    3
+Name: count, dtype: int64
+Primary Part: 1208
+TXT_PARTS_NAME
+oxygen sensor    3
+Name: count, dtype: int64
+Primary Part: 2092
+TXT_PARTS_NAME
+rear view fender mirror right    3
+Name: count, dtype: int64
+Primary Part: 1427
+TXT_PARTS_NAME
+apron fender left    3
+Name: count, dtype: int64
+Primary Part: 1063
+TXT_PARTS_NAME
+hose discharge    3
+Name: count, dtype: int64
+Primary Part: 2125
+TXT_PARTS_NAME
+wheel rim alloy front left    3
+Name: count, dtype: int64
+Primary Part: 2174
+TXT_PARTS_NAME
+cross member suspension frame front    3
+Name: count, dtype: int64
+Primary Part: 1074
+TXT_PARTS_NAME
+emblemlogo front grille    3
+Name: count, dtype: int64
+Primary Part: 2044
+TXT_PARTS_NAME
+garnish grille radiator    3
+Name: count, dtype: int64
+Primary Part: 1572
+TXT_PARTS_NAME
+airbag passenger seat    2
+Name: count, dtype: int64
+Primary Part: 1858
+TXT_PARTS_NAME
+reflector visibility rear right    2
+Name: count, dtype: int64
+Primary Part: 1464
+TXT_PARTS_NAME
+carrier radiator support upper member    2
+Name: count, dtype: int64
+Primary Part: 2362
+TXT_PARTS_NAME
+bracket 3    2
+Name: count, dtype: int64
+Primary Part: 2133
+TXT_PARTS_NAME
+insulator bonnethood    2
+Name: count, dtype: int64
+Primary Part: 2055
+TXT_PARTS_NAME
+hinge bottom door front left    2
+Name: count, dtype: int64
+Primary Part: 2056
+TXT_PARTS_NAME
+hinge bottom door front right    2
+Name: count, dtype: int64
+Primary Part: 1004
+TXT_PARTS_NAME
+roof panel assembly    2
+Name: count, dtype: int64
+Primary Part: 2418
+TXT_PARTS_NAME
+cowl panel cover right    2
+Name: count, dtype: int64
+Primary Part: 1436
+TXT_PARTS_NAME
+bracket front bumper left 1    2
+Name: count, dtype: int64
+Primary Part: 1815
+TXT_PARTS_NAME
+fender indicator light right    2
+Name: count, dtype: int64
+Primary Part: 2024
+TXT_PARTS_NAME
+garnish bumper front    2
+Name: count, dtype: int64
+Primary Part: 1032
+TXT_PARTS_NAME
+wheel rim steel rear right    2
+Name: count, dtype: int64
+Primary Part: 1064
+TXT_PARTS_NAME
+hose suction    2
+Name: count, dtype: int64
+Primary Part: 1823
+TXT_PARTS_NAME
+fog light front left    2
+Name: count, dtype: int64
+Primary Part: 1491
+TXT_PARTS_NAME
+quarter panel inner right    2
+Name: count, dtype: int64
+Primary Part: 1857
+TXT_PARTS_NAME
+reflector visibility rear left    2
+Name: count, dtype: int64
+Primary Part: 2041
+TXT_PARTS_NAME
+garnish fender right    2
+Name: count, dtype: int64
+Primary Part: 1274
+TXT_PARTS_NAME
+engine cover assembly    2
+Name: count, dtype: int64
+Primary Part: 1209
+TXT_PARTS_NAME
+parking sensor    2
+Name: count, dtype: int64
+Primary Part: 2126
+TXT_PARTS_NAME
+wheel rim alloy front right    2
+Name: count, dtype: int64
+Primary Part: 2027
+TXT_PARTS_NAME
+garnish bumper rear    2
+Name: count, dtype: int64
+Primary Part: 2261
+TXT_PARTS_NAME
+steering rack assemblysteering gear    2
+Name: count, dtype: int64
+Primary Part: 1012
+TXT_PARTS_NAME
+running boardgusset panel left    2
+Name: count, dtype: int64
+Primary Part: 1510
+TXT_PARTS_NAME
+retainer rear bumper side bracket mounting 1    2
+Name: count, dtype: int64
+Primary Part: 2254
+TXT_PARTS_NAME
+stabilizer barsway bar    2
+Name: count, dtype: int64
+Primary Part: 1071
+TXT_PARTS_NAME
+emblemlogo abs    2
+Name: count, dtype: int64
+Primary Part: 1330
+TXT_PARTS_NAME
+ac gas refrigerant recovery and refill    2
+Name: count, dtype: int64
+Primary Part: 1659
+TXT_PARTS_NAME
+outer handle door front right    2
+Name: count, dtype: int64
+Primary Part: 1460
+TXT_PARTS_NAME
+carrier bulkhead radiator support    2
+Name: count, dtype: int64
+Primary Part: 1102
+TXT_PARTS_NAME
+battery    2
+Name: count, dtype: int64
+Primary Part: 1168
+TXT_PARTS_NAME
+airbag control module    2
+Name: count, dtype: int64
+Primary Part: 2061
+TXT_PARTS_NAME
+hinge top door front left    2
+Name: count, dtype: int64
+Primary Part: 1400
+TXT_PARTS_NAME
+door rear view mirror glass outer right    1
+Name: count, dtype: int64
+Primary Part: 1454
+TXT_PARTS_NAME
+bumper reinforcement rear right    1
+Name: count, dtype: int64
+Primary Part: 1662
+TXT_PARTS_NAME
+parcel tray luggage compartment    1
+Name: count, dtype: int64
+Primary Part: 1575
+TXT_PARTS_NAME
+antenna assembly    1
+Name: count, dtype: int64
+Primary Part: 1741
+TXT_PARTS_NAME
+trim assembly cowl side right    1
+Name: count, dtype: int64
+Primary Part: 1429
+TXT_PARTS_NAME
+back panel assembly    1
+Name: count, dtype: int64
+Primary Part: 1456
+TXT_PARTS_NAME
+bumper under guard cover    1
+Name: count, dtype: int64
+Primary Part: 1031
+TXT_PARTS_NAME
+wheel rim steel rear left    1
+Name: count, dtype: int64
+Primary Part: 1517
+TXT_PARTS_NAME
+running boardgusset inner panel right    1
+Name: count, dtype: int64
+Primary Part: 1878
+TXT_PARTS_NAME
+latch front right door    1
+Name: count, dtype: int64
+Primary Part: 1358
+TXT_PARTS_NAME
+muffler assembly main    1
+Name: count, dtype: int64
+Primary Part: 1660
+TXT_PARTS_NAME
+outer handle door rear left    1
+Name: count, dtype: int64
+Primary Part: 1340
+TXT_PARTS_NAME
+radiator cooling fan shroud    1
+Name: count, dtype: int64
+Primary Part: 2296
+TXT_PARTS_NAME
+bearing clutch release    1
+Name: count, dtype: int64
+Primary Part: 2274
+TXT_PARTS_NAME
+tie rod end right    1
+Name: count, dtype: int64
+Primary Part: 2108
+TXT_PARTS_NAME
+tail gate dicky trunk upper    1
+Name: count, dtype: int64
+Primary Part: 1350
+TXT_PARTS_NAME
+oil pump    1
+Name: count, dtype: int64
+Primary Part: 1233
+TXT_PARTS_NAME
+air duct    1
+Name: count, dtype: int64
+Primary Part: 1980
+TXT_PARTS_NAME
+extension outer fender right    1
+Name: count, dtype: int64
+Primary Part: 1481
+TXT_PARTS_NAME
+a pillar front inner left    1
+Name: count, dtype: int64
+Primary Part: 1344
+TXT_PARTS_NAME
+thermostat assembly    1
+Name: count, dtype: int64
+Primary Part: 1793
+TXT_PARTS_NAME
+weatherstrip rear door belt inner left    1
+Name: count, dtype: int64
+Primary Part: 1720
+TXT_PARTS_NAME
+steering column cover bottom    1
+Name: count, dtype: int64
+Primary Part: 1658
+TXT_PARTS_NAME
+outer handle door front left    1
+Name: count, dtype: int64
+Primary Part: 1306
+TXT_PARTS_NAME
+wheel housing rear right    1
+Name: count, dtype: int64
+Primary Part: 1997
+TXT_PARTS_NAME
+door moulding front left    1
+Name: count, dtype: int64
+Primary Part: 2042
+TXT_PARTS_NAME
+garnish fog light left    1
+Name: count, dtype: int64
+Primary Part: 1403
+TXT_PARTS_NAME
+sealant front windshield glass 3    1
+Name: count, dtype: int64
+Primary Part: 2356
+TXT_PARTS_NAME
+wiper blade front windshield passenger side    1
+Name: count, dtype: int64
+Primary Part: 2340
+TXT_PARTS_NAME
+link wiper front windshield    1
+Name: count, dtype: int64
+Primary Part: 1084
+TXT_PARTS_NAME
+emblemlogo rear left top 1    1
+Name: count, dtype: int64
+Primary Part: 1054
+TXT_PARTS_NAME
+ac condenser fan assembly    1
+Name: count, dtype: int64
+Primary Part: 2302
+TXT_PARTS_NAME
+clutch plate    1
+Name: count, dtype: int64
+Primary Part: 1354
+TXT_PARTS_NAME
+exhaust pipe    1
+Name: count, dtype: int64
+Primary Part: 1861
+TXT_PARTS_NAME
+tail light right dicky    1
+Name: count, dtype: int64
+Primary Part: 1288
+TXT_PARTS_NAME
+gasket liquid engine    1
+Name: count, dtype: int64
+Primary Part: 1073
+TXT_PARTS_NAME
+emblemlogo fender right    1
+Name: count, dtype: int64
+Primary Part: 1484
+TXT_PARTS_NAME
+head light support left    1
+Name: count, dtype: int64
+Primary Part: 2099
+TXT_PARTS_NAME
+skid plate bumper rear    1
+Name: count, dtype: int64
+Primary Part: 1026
+TXT_PARTS_NAME
+tyre front right    1
+Name: count, dtype: int64
+Primary Part: 1170
+TXT_PARTS_NAME
+cable spark plug 1    1
+Name: count, dtype: int64
+Primary Part: 2420
+TXT_PARTS_NAME
+brake oil    1
+Name: count, dtype: int64
+Primary Part: 2183
+TXT_PARTS_NAME
+hub assembly front left wheel    1
+Name: count, dtype: int64
+Primary Part: 2172
+TXT_PARTS_NAME
+control arm shaft left    1
+Name: count, dtype: int64
+Primary Part: 1263
+TXT_PARTS_NAME
+cover cylinder head    1
+Name: count, dtype: int64
+Primary Part: 1770
+TXT_PARTS_NAME
+trim scuff plate dickytrunk    1
+Name: count, dtype: int64
+Primary Part: 2062
+TXT_PARTS_NAME
+hinge top door front right    1
+Name: count, dtype: int64
+Primary Part: 2019
+TXT_PARTS_NAME
+garnish assy roof side outer lh    1
+Name: count, dtype: int64
+Primary Part: 2048
+TXT_PARTS_NAME
+garnish quarter panel right    1
+Name: count, dtype: int64
+Primary Part: 1201
+TXT_PARTS_NAME
+latch and actuator assembly rear door right    1
+Name: count, dtype: int64
+Primary Part: 2197
+TXT_PARTS_NAME
+knuckle right    1
+Name: count, dtype: int64
+Primary Part: 2193
+TXT_PARTS_NAME
+insulator strut suspension front right    1
+Name: count, dtype: int64
+Primary Part: 2060
+TXT_PARTS_NAME
+hinge dickytrunk right    1
+Name: count, dtype: int64
+Primary Part: 1162
+TXT_PARTS_NAME
+abs control unit    1
+Name: count, dtype: int64
+Primary Part: 2150
+TXT_PARTS_NAME
+bush shock absorber bottom front left    1
+Name: count, dtype: int64
+Primary Part: 1087
+TXT_PARTS_NAME
+emblemlogo rear right bottom 1    1
+Name: count, dtype: int64
+Primary Part: 2277
+TXT_PARTS_NAME
+torsion dead axle rear    1
+Name: count, dtype: int64
+Primary Part: 2159
+TXT_PARTS_NAME
+bush stabilizer bar support 1    1
+Name: count, dtype: int64
+Primary Part: 1195
+TXT_PARTS_NAME
+impact sensor    1
+Name: count, dtype: int64
+Primary Part: 2105
+TXT_PARTS_NAME
+spoiler front air dam    1
+Name: count, dtype: int64
+Primary Part: 1486
+TXT_PARTS_NAME
+longitudnal member engine support left    1
+Name: count, dtype: int64
+Primary Part: 1213
+TXT_PARTS_NAME
+spark plug 1    1
+Name: count, dtype: int64
+Primary Part: 1561
+TXT_PARTS_NAME
+accelerator pedal    1
+Name: count, dtype: int64
+Primary Part: 1493
+TXT_PARTS_NAME
+quarter panel wheel well liningguardcover right    1
+Name: count, dtype: int64
+Primary Part: 1934
+TXT_PARTS_NAME
+bumper rear right    1
+Name: count, dtype: int64
+Primary Part: 1814
+TXT_PARTS_NAME
+fender indicator light left    1
+Name: count, dtype: int64
+Primary Part: 1690
+TXT_PARTS_NAME
+seat belt front driver    1
+Name: count, dtype: int64
+Primary Part: 2173
+TXT_PARTS_NAME
+control arm shaft right    1
+Name: count, dtype: int64
+Primary Part: 1910
+TXT_PARTS_NAME
+brace bonnethood    1
+Name: count, dtype: int64
+Primary Part: 2312
+TXT_PARTS_NAME
+gear boxtransmission case left    1
+Name: count, dtype: int64
+Primary Part: 2273
+TXT_PARTS_NAME
+tie rod end left    1
+Name: count, dtype: int64
+Primary Part: 1769
+TXT_PARTS_NAME
+trim roof headliner    1
+Name: count, dtype: int64
+Primary Part: 1230
+TXT_PARTS_NAME
+wiring harness engine    1
+Name: count, dtype: int64
+Primary Part: 1752
+TXT_PARTS_NAME
+trim dickytrunk left lower    1
+Name: count, dtype: int64
+Primary Part: 2179
+TXT_PARTS_NAME
+damper left    1
+Name: count, dtype: int64
+Primary Part: 1941
+TXT_PARTS_NAME
+center b pillar left    1
+Name: count, dtype: int64
+Primary Part: 1501
+TXT_PARTS_NAME
+retainer assembly rear bumper cover mounting 1    1
+Name: count, dtype: int64
+Primary Part: 1784
+TXT_PARTS_NAME
+weatherstrip assembly door front right    1
+Name: count, dtype: int64
+Primary Part: 1386
+TXT_PARTS_NAME
+glass quarter fixed rear door right    1
+Name: count, dtype: int64
+Primary Part: 1091
+TXT_PARTS_NAME
+emblemlogo rear right top 2    1
+Name: count, dtype: int64
+Primary Part: 1987
+TXT_PARTS_NAME
+cladding running boardgusset panel left    1
+Name: count, dtype: int64
+Primary Part: 1928
+TXT_PARTS_NAME
+bumper moulding front right    1
+Name: count, dtype: int64
+Primary Part: 1457
+TXT_PARTS_NAME
+cabin floor under guard cover left    1
+Name: count, dtype: int64
+Primary Part: 1169
+TXT_PARTS_NAME
+airbag sensor    1
+Name: count, dtype: int64
+Primary Part: 1232
+TXT_PARTS_NAME
+wiring harness main    1
+Name: count, dtype: int64
+Primary Part: 1458
+TXT_PARTS_NAME
+cabin floor under guard cover right    1
+Name: count, dtype: int64
+Primary Part: 1990
+TXT_PARTS_NAME
+rear view door mirror cover right    1
+Name: count, dtype: int64
+Primary Part: 1412
+TXT_PARTS_NAME
+sealant rear windshield glass 2    1
+Name: count, dtype: int64
+Primary Part: 1270
+TXT_PARTS_NAME
+cylinder head gasket    1
+Name: count, dtype: int64
+Primary Part: 1468
+TXT_PARTS_NAME
+crash pad    1
+Name: count, dtype: int64
+Primary Part: 2025
+TXT_PARTS_NAME
+garnish bumper head light left    1
+Name: count, dtype: int64
+Primary Part: 1397
+TXT_PARTS_NAME
+quarter panel glass fixed left    1
+Name: count, dtype: int64
+Primary Part: 1184
+TXT_PARTS_NAME
+electronic control moduleecm    1
+Name: count, dtype: int64
+Primary Part: 1333
+TXT_PARTS_NAME
+hose    1
+Name: count, dtype: int64
+Primary Part: 1850
+TXT_PARTS_NAME
+indicator lamp bumper right    1
+Name: count, dtype: int64
+Primary Part: 1530
+TXT_PARTS_NAME
+ac control assembly middle row    1
+Name: count, dtype: int64
+Primary Part: 1887
+TXT_PARTS_NAME
+lock assembly door rear left    1
+Name: count, dtype: int64
+Primary Part: 1525
+TXT_PARTS_NAME
+tail light housing right    1
+Name: count, dtype: int64
+Primary Part: 1352
+TXT_PARTS_NAME
+pan engine oil    1
+Name: count, dtype: int64
+Primary Part: 1157
+TXT_PARTS_NAME
+air filtercleaner element    1
+Name: count, dtype: int64
+Primary Part: 2250
+TXT_PARTS_NAME
+rebound clip set rear left    1
+Name: count, dtype: int64
